@@ -82,4 +82,5 @@ int main()
 
 	delete[] people;
 	return 0;
+	//comment update cho github
 }
